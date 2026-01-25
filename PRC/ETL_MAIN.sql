@@ -1,6 +1,5 @@
 create or replace package ETL_MAIN is
 
-  -- Author  : MUSIREP.D
   -- Created : 17.02.2017 10:08:24
   -- Purpose :
 
